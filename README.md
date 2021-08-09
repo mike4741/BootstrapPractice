@@ -32,7 +32,7 @@
 ### Part 2 - Edit the _cloned_ project
 
 * from a text editor (i.e. - Visual Studio Code, Notepad ++, etc...), select:
-  * `File` > `Add Folder to WorkSpace`
+  * `File` > `Open Folder`
     * Select the directory you use to store your projects (ex. `dev` directory) 
     * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project `BootstrapPractice`
     * Expand the project from the _project explorer (may just be called `explorer`)_
